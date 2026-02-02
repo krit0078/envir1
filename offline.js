@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1768153819,
+	"version": 1770042853,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -80,6 +80,7 @@
 		"images/pin-sheet0.png",
 		"images/home-sheet0.png",
 		"images/previews-sheet0.png",
+		"images/f_btn-sheet0.png",
 		"media/pop-39222.m4a",
 		"media/pop-39222.ogg",
 		"icon-16.png",
